@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samriddhichauhan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/samriddhichauhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0268-missing-number) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/samriddhichauhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
