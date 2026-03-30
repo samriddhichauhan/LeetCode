@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/samriddhichauhan/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/samriddhichauhan/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/samriddhichauhan/LeetCode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/samriddhichauhan/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/samriddhichauhan/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/samriddhichauhan/LeetCode/tree/master/0078-subsets) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/samriddhichauhan/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
