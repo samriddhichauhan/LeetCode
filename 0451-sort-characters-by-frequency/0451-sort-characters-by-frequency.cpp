@@ -11,7 +11,6 @@ public:
             }
         }
         vector<pair<char, int>> temp(freq.begin(), freq.end());
-
         sort(temp.begin(), temp.end(), [](auto &a, auto &b) {
             return a.second > b.second;
         });
@@ -21,4 +20,5 @@ public:
 
         return str;
     }
+   
 };
