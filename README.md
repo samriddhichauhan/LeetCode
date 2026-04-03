@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samriddhichauhan/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/samriddhichauhan/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/samriddhichauhan/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/samriddhichauhan/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/samriddhichauhan/LeetCode/tree/master/0051-n-queens) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/samriddhichauhan/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0268-missing-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/samriddhichauhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
