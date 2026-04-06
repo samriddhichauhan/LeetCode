@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samriddhichauhan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/samriddhichauhan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/samriddhichauhan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/samriddhichauhan/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/samriddhichauhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/samriddhichauhan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
