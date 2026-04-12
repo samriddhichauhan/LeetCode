@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/samriddhichauhan/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/samriddhichauhan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/samriddhichauhan/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/samriddhichauhan/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/samriddhichauhan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/samriddhichauhan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/samriddhichauhan/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/samriddhichauhan/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0268-missing-number) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/samriddhichauhan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/samriddhichauhan/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/samriddhichauhan/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/samriddhichauhan/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/samriddhichauhan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/samriddhichauhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/samriddhichauhan/LeetCode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/samriddhichauhan/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
