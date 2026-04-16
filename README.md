@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/samriddhichauhan/LeetCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/samriddhichauhan/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/samriddhichauhan/LeetCode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/samriddhichauhan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samriddhichauhan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/samriddhichauhan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/samriddhichauhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/samriddhichauhan/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samriddhichauhan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samriddhichauhan/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/samriddhichauhan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/samriddhichauhan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/samriddhichauhan/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/samriddhichauhan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
