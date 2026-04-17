@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/samriddhichauhan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samriddhichauhan/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/samriddhichauhan/LeetCode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/samriddhichauhan/LeetCode/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/samriddhichauhan/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/samriddhichauhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/samriddhichauhan/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/samriddhichauhan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/samriddhichauhan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samriddhichauhan/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/samriddhichauhan/LeetCode/tree/master/0739-daily-temperatures) |
 ## Memoization
 |  |
 | ------- |
@@ -179,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/samriddhichauhan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samriddhichauhan/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/samriddhichauhan/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
