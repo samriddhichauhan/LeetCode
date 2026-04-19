@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samriddhichauhan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/samriddhichauhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/samriddhichauhan/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/samriddhichauhan/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/samriddhichauhan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/samriddhichauhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/samriddhichauhan/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/samriddhichauhan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/samriddhichauhan/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
