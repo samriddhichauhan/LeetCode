@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/samriddhichauhan/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samriddhichauhan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/samriddhichauhan/LeetCode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/samriddhichauhan/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0414-third-maximum-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/samriddhichauhan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/samriddhichauhan/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/samriddhichauhan/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/samriddhichauhan/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/samriddhichauhan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samriddhichauhan/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/samriddhichauhan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/samriddhichauhan/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/samriddhichauhan/LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/samriddhichauhan/LeetCode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/samriddhichauhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/samriddhichauhan/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/samriddhichauhan/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/samriddhichauhan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samriddhichauhan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/samriddhichauhan/LeetCode/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/samriddhichauhan/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/samriddhichauhan/LeetCode/tree/master/0139-word-break) |
 ## Simulation
 |  |
 | ------- |
@@ -187,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/samriddhichauhan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samriddhichauhan/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/samriddhichauhan/LeetCode/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/samriddhichauhan/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
