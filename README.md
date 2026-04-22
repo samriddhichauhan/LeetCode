@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/samriddhichauhan/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/samriddhichauhan/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/samriddhichauhan/LeetCode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/samriddhichauhan/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/samriddhichauhan/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/samriddhichauhan/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/samriddhichauhan/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/samriddhichauhan/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/samriddhichauhan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0414-third-maximum-number) |
