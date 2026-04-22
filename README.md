@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/samriddhichauhan/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/samriddhichauhan/LeetCode/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/samriddhichauhan/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1004-max-consecutive-ones-iii](https://github.com/samriddhichauhan/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/samriddhichauhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/samriddhichauhan/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/samriddhichauhan/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/samriddhichauhan/LeetCode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/samriddhichauhan/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/samriddhichauhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/samriddhichauhan/LeetCode/tree/master/0139-word-break) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/samriddhichauhan/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/samriddhichauhan/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
