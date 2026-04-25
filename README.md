@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/samriddhichauhan/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/samriddhichauhan/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/samriddhichauhan/LeetCode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/samriddhichauhan/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/samriddhichauhan/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/samriddhichauhan/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/samriddhichauhan/LeetCode/tree/master/0053-maximum-subarray) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/samriddhichauhan/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/samriddhichauhan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/samriddhichauhan/LeetCode/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/samriddhichauhan/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/samriddhichauhan/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/samriddhichauhan/LeetCode/tree/master/0141-linked-list-cycle) |
