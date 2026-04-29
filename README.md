@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/samriddhichauhan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/samriddhichauhan/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samriddhichauhan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/samriddhichauhan/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/samriddhichauhan/LeetCode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/samriddhichauhan/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/samriddhichauhan/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/samriddhichauhan/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/samriddhichauhan/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/samriddhichauhan/LeetCode/tree/master/0860-lemonade-change) |
