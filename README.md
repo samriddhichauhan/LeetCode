@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/samriddhichauhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samriddhichauhan/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/samriddhichauhan/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/samriddhichauhan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -297,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/samriddhichauhan/LeetCode/tree/master/0155-min-stack) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
