@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/samriddhichauhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samriddhichauhan/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/samriddhichauhan/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/samriddhichauhan/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/samriddhichauhan/LeetCode/tree/master/0139-word-break) |
 | [0678-valid-parenthesis-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/samriddhichauhan/LeetCode/tree/master/0788-rotated-digits) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/samriddhichauhan/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Backtracking
 |  |
 | ------- |
