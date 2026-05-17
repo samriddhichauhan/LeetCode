@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/samriddhichauhan/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/samriddhichauhan/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/samriddhichauhan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/samriddhichauhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/samriddhichauhan/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/samriddhichauhan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/samriddhichauhan/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/samriddhichauhan/LeetCode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/samriddhichauhan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/samriddhichauhan/LeetCode/tree/master/0905-sort-array-by-parity) |
