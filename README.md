@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/samriddhichauhan/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/samriddhichauhan/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/samriddhichauhan/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/samriddhichauhan/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/samriddhichauhan/LeetCode/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samriddhichauhan/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/samriddhichauhan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/samriddhichauhan/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
