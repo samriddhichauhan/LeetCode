@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/samriddhichauhan/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/samriddhichauhan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samriddhichauhan/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/samriddhichauhan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/samriddhichauhan/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/samriddhichauhan/LeetCode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/samriddhichauhan/LeetCode/tree/master/0860-lemonade-change) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/samriddhichauhan/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/samriddhichauhan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/samriddhichauhan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/samriddhichauhan/LeetCode/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samriddhichauhan/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/samriddhichauhan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/samriddhichauhan/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/samriddhichauhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/samriddhichauhan/LeetCode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/samriddhichauhan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/samriddhichauhan/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
